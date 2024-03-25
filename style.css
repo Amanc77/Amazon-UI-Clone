@@ -24,7 +24,7 @@ html , body{
     margin: 2px;
 }
 .logo{
-    background-image: url(amazon_logo.png);
+    background-image: url(image/amazon_logo.png);
     height: 50px;
     width: 100%;
     background-size: cover;
@@ -147,7 +147,7 @@ html , body{
     font-weight: 800;
  }
  .hero-section{
-    background-image: url(hero_image.jpg);
+    background-image: url(image/hero_image.jpg);
     height: 500px;
     background-size: cover;
     display: flex;
