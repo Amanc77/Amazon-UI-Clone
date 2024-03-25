@@ -1,7 +1,8 @@
 Amazon-Clone
 
 This is Amazon UI Clone.
-file:///home/champion/Videos/Screencasts/Screencast%20from%2025-03-24%2012:14:51%20PM%20IST.webm
+![Screenshot from 2024-03-25 12-21-05](https://github.com/Amanc77/Amazon-Clone/assets/148977902/09ed42cd-0152-4a12-98ed-fd18419239c1)
+
 
 i made this with the help of html and css 
 | Amazon-Clone | | [ link ] (https://amanc77.github.io/Amazon-Clone)
