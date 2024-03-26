@@ -1,7 +1,8 @@
 
 # Amazon UI Clone
-
 Welcome to the Amazon UI Clone project! This is a beginner-friendly project aimed at replicating the user interface of the Amazon website using HTML and CSS.
+
+https://github.com/Amanc77/Amazon-UI-Clone/assets/148977902/ff177df2-0a44-45ae-935b-627c8aaa1463
 
 
 ## Introduction
@@ -36,4 +37,9 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 This project was made possible with the help of the following resources:
 
 - [Amazon](https://www.amazon.com) - Inspiration for the user interface design.
+
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out to [amankrc7@email.com](mailto:amankrc7@gmail.com).
 
