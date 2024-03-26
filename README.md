@@ -26,7 +26,7 @@ To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine using `git clone https://github.com/Amanc77/Amazon-UI-Clone`.
 2. Open the project directory in your code editor.
-3. Open `(https://amanc77.github.io/Amazon-Clone)` in your web browser to view the Amazon UI Clone.
+3. Open (https://amanc77.github.io/Amazon-Clone) in your web browser to view the Amazon UI Clone.
 
 ## Contributing
 
